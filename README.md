@@ -8,4 +8,4 @@
 #### :guitar: *guitarist in free time*
 
 
-[LinkedIn](https://www.linkedin.com/in/breno-cota-a51711177/)  [:mailbox_with_mail:](brenocota4@gmail.com) 
+[LinkedIn](https://www.linkedin.com/in/breno-cota-a51711177/)  [ Email](https://brenocota4@gmail.com) :mailbox_with_mail: 
