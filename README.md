@@ -7,6 +7,13 @@
 
 ### :guitar: *guitarist in free time*
 
+<p align="center">  
+ <a href="https://www.linkedin.com/in/breno-cota-a51711177/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Breno%20Cota-blue?logo=linkedin?logo=linkedin"></a>
+ <a href="https://www.instagram.com/dbrno/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Breno%20Cota-green?logo=instagram?logo=instagram"></a>
+</p>
 
-[LinkedIn](https://www.linkedin.com/in/breno-cota-a51711177/)  
-[ Email](https://brenocota4@gmail.com) :mailbox_with_mail: 
+<br/>
+
+[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=brenogcota&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/brenogcota)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenogcota&layout=compact)](https://github.com/brenogcota)
