@@ -6,7 +6,7 @@
 </p>
 
 ### Web developer focused on backend development. Graduating in Systems Analysis and Development from the Federal Institute of northern Minas Gerais :mortar_board: 
-### Currently working as a freelance developer :computer: :zap:
+### Currently working at Codeby :computer: :zap:
 
 
 
