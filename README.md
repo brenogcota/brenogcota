@@ -5,10 +5,6 @@
  <a href="https://www.instagram.com/dbrno/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Breno%20Cota-green?logo=instagram?logo=instagram"></a>
 </p>
 
-### Developer focused on web development. Graduating in Systems Analysis and Development from the Federal Institute of northern Minas Gerais :mortar_board: 
-### Currently working at Codeby :computer: :zap:
-
-
 
 ### :guitar: *guitarist in free time*
 
